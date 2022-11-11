@@ -10,3 +10,4 @@
 
 #### - [자바스크립트 컨벤션(airbnb)](https://github.com/airbnb/javascript)
 #### - [테스트 도구 사용법(jest)](https://jestjs.io/) 
+#### - [과제 제출 방법](https://github.com/woowacourse/woowacourse-docs/tree/main/precourse)
